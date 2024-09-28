@@ -1,4 +1,5 @@
 {
     "welcome": "Welcome to React2",
-    "this_is_a_test": "This is a test"
+    "this_is_a_test": "This is a test",
+    "abc": "hello"
 }
