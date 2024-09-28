@@ -1,4 +1,9 @@
 {
   "welcome": "Welcome to React",
-  "this_is_a_test": "This is a test"
+  "this_is_a_test": "This is a test",
+  "multi_property": {
+    "name": "Name",
+    "age": "Age",
+    "gender": "Gender"
+  }
 }
